@@ -48,7 +48,7 @@ end
 
 ## Usage
 
-Check out the [Usage Guide](https://hexdocs.pm/k8s/usage.html) for in-depth examples.
+Check out the [Usage Guide](https://hexdocs.pm/k8s/readme.html#usage) for in-depth examples.
 
 Most functions are also written using doctests.
 
